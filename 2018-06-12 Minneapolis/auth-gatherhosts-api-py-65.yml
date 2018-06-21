@@ -1,0 +1,64 @@
+---
+- hosts: localhost
+
+  tasks:
+  - name: Including Secret Environment Items
+    include_vars:
+      file: secrets65.yml
+      name: secret
+
+  - name: vcenter login
+    uri:
+      url: "https://{{secret.vcenter}}/rest/com/vmware/cis/session"
+      force_basic_auth: yes
+      method: POST
+      user: "{{secret.username}}"
+      password: "{{secret.password}}"
+      status_code: 200
+      validate_certs: no
+    register: login
+
+  - name: Get hosts from vCenter
+    uri:
+      url: "https://{{secret.vcenter}}/rest/vcenter/host"
+      force_basic_auth: yes
+      validate_certs: no
+      headers:
+        Cookie: "{{login.set_cookie}}"
+    register: vchosts
+
+  - name: Get VMs from vCenter
+    uri:
+      url: "https://{{secret.vcenter}}/rest/vcenter/vm"
+      force_basic_auth: yes
+      validate_certs: no
+      headers:
+        Cookie: "{{login.set_cookie}}"
+    register: vcVM
+
+  - debug:
+      var: vcVM
+
+  - name: Set Syslog Configuration Setting
+    vmware_host_config_manager:
+      hostname: "{{secret.vcenter}}"
+      username: "{{secret.username}}"
+      password: "{{secret.password}}"
+      esxi_hostname: "{{item.name}}"
+      options:
+          'Syslog.global.logHost': '192.168.1.1'
+      validate_certs: no
+    with_items:
+      - "{{vchosts.json.value}}"
+
+  - name: Ensure Syslog Service is running
+    vmware_host_service_manager:
+      hostname: "{{secret.vcenter}}"
+      username: "{{secret.username}}"
+      password: "{{secret.password}}"
+      esxi_hostname: "{{item.name}}"
+      service_name: vmsyslogd
+      state: present
+      validate_certs: no
+    with_items:
+      - "{{vchosts.json.value}}"
