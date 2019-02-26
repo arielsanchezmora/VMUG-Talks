@@ -1,8 +1,12 @@
 # Learning SDN with NSX and OpenvSwitch as a vSphere admin for fun and profit
 
+v1.0, delivered in the [Seattle Usercon](https://twitter.com/MattThatITGuy/status/1097935565586984961)  
+
+## Slides as presented
+
 If you just need the slides and don't care about the audio files, please click [here](https://github.com/arielsanchezmora/VMUG-Talks/raw/master/2019-02-19%20Seattle/F02U%20Learning%20SDN%20with%20NSX%20and%20OpenvSwitch%20as%20a%20vSphere%20admin%20for%20fun%20and%20profit%20-%20Seattle.pptx)
 
-If you want to play the audio and videio as well, please download the [zip file](https://github.com/arielsanchezmora/VMUG-Talks/raw/master/2019-02-19%20Seattle/Learning%20SDN%20with%20NSX%20and%20OpenvSwitch%20as%20a%20vSphere%20admin%20for%20fun%20and%20profit.zip), you may need to adjust the file path on the audio links and have an internet connection for Youtube.
+If you want to play the audio and videio as well, please download the [zip file](https://github.com/arielsanchezmora/VMUG-Talks/raw/master/2019-02-19%20Seattle/Learning%20SDN%20with%20NSX%20and%20OpenvSwitch%20as%20a%20vSphere%20admin%20for%20fun%20and%20profit.zip), you may need to adjust the file path on the audio links and have an internet connection for Youtube.  
 
 ## Feedback to improve for v1.1
 
@@ -12,9 +16,7 @@ If you want to play the audio and videio as well, please download the [zip file]
 - The audio slide just doesn't work as it is today. Consolidate audio into one file, make a video with either the words or timeline. People are visual
 - Expand on the "for profit" part of why learning SDN is good for you
 - I had two people ask me what the difference between NSX-V and T is. I should not assume and include a slide
-- Improve story arc; I personally felt there wasn't a good "main course"; felt more like eating a series of appetizers...
-
-
+- Improve story arc; I personally felt there wasn't a good "main course"; felt more like eating a series of appetizers...  
 
 ## Original abstract submission:
 
