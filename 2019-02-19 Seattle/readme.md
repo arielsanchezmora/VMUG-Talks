@@ -1,8 +1,8 @@
 Learning SDN with NSX and OpenvSwitch as a vSphere admin for fun and profit
 
-If you just need the slides and don't care about the audio files, please click [here]("F02U Learning SDN with NSX and OpenvSwitch as a vSphere admin for fun and profit - Seattle.pptx")
+If you just need the slides and don't care about the audio files, please click [here](https://github.com/arielsanchezmora/VMUG-Talks/blob/master/2019-02-19%20Seattle/F02U%20Learning%20SDN%20with%20NSX%20and%20OpenvSwitch%20as%20a%20vSphere%20admin%20for%20fun%20and%20profit%20-%20Seattle.pptx")
 
-If you want to play the audio as well, please download the [zip file]("Learning SDN with NSX and OpenvSwitch as a vSphere admin for fun and profit.zip"), you may need to adjust the file path on the audio links.
+If you want to play the audio and videio as well, please download the [zip file]("https://github.com/arielsanchezmora/VMUG-Talks/blob/master/2019-02-19%20Seattle/Learning%20SDN%20with%20NSX%20and%20OpenvSwitch%20as%20a%20vSphere%20admin%20for%20fun%20and%20profit.zip"), you may need to adjust the file path on the audio links and have an internet connection for Youtube.
 
 **Feedback to improve for v1.1**
 
