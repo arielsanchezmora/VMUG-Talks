@@ -4,7 +4,7 @@ v1.0, delivered in the [Kansas City Usercon](https://twitter.com/kmruddy/status/
 
 ## Slides with slight corrections (v1.1)
 
-Please click [here](https://github.com/arielsanchezmora/VMUG-Talks/blob/master/2019-06-25%20Kansas%20City/vCommunity%20sourced%20best%20practices%20for%20upgrading%20vSphere%20with%20vSAN%20and%20NSX.pptx) or browse code to see the pptx file.
+Please click [here](https://github.com/arielsanchezmora/VMUG-Talks/blob/master/2019-06-25%20Kansas%20City/vCommunity%20sourced%20best%20practices%20for%20upgrading%20vSphere%20with%20vSAN%20and%20NSX.pptx?raw=true) or browse code to see the pptx file.
 
 The link in the presentation for the community resources is another repo so that we may add as time passes, it's available here
 
