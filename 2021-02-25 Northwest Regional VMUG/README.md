@@ -68,6 +68,6 @@ As far as public VMware branded training, it is expected VMware official SaltSta
 
 [SaltConf20 Youtube Playlist](https://www.youtube.com/playlist?list=PL9svBjLDUl__frIm2HOGPm1GrcVQkOZTe)
 
-[How-to for SaltStack to talk to vCenter/ESXi0(https://docs.saltproject.io/en/latest/topics/cloud/vmware.html)
+[How-to for SaltStack to talk to vCenter/ESXi](https://docs.saltproject.io/en/latest/topics/cloud/vmware.html)
 
 [VMware webinar introducing vRealize Automation SaltStack Config, requires BrightTalk registration](https://www.brighttalk.com/webcast/18420/462197)
