@@ -21,7 +21,7 @@ https://github.com/arielsanchezmora/VMUG-Talks/blob/master/2021-02-25%20Northwes
 
 [Salt in 10 minutes - explains concepts and gets you running very quickly](https://docs.saltproject.io/en/master/topics/tutorials/walkthrough.html#salt-in-10-minutes/)
 
-[Firewall requirements](https://docs.saltproject.io/en/master/topics/tutorials/firewall.html#firewall]
+[Firewall requirements](https://docs.saltproject.io/en/master/topics/tutorials/firewall.html#firewall)
 
 [Information on running salt locally without a master](https://docs.saltproject.io/en/master/topics/tutorials/quickstart.html#masterless-quickstart)
 
@@ -62,7 +62,7 @@ As far as public VMware branded training, it is expected VMware official SaltSta
 
 [Podcast episode with Salt creator Thomas Hatch, founder and CTO of SaltStack, and Janae Andrus, community manager](https://thenewstack.io/saltstacks-open-source-future-under-vmware/)
 
-[Tutorial hosted on DigitalOcean(https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts)
+[Tutorial hosted on DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts)
 
 [Pluralsight training](https://app.pluralsight.com/library/courses/getting-started-salt-open/table-of-contents)
 
