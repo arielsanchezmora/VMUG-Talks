@@ -2,6 +2,7 @@
 
 Powerpoint slides and source code if applicable available by following the links. Anything missing, please let me know via twitter.
 
+[2023 FL VMUG Usercon keynote](https://github.com/arielsanchezmora/VMUG-Talks/blob/master/2023-03-23%20FL%20VMUG%20Usercon%20keynote/2023%20FL%20vmug%20keynote.pptx)  
 [vCommunity Benefits for You, Your Team and Your Town](https://github.com/arielsanchezmora/VMUG-Talks/blob/master/2018-09-20%20NY%20NJ/vCommunity%20v1.1%20by%20arielsanchezmor.pptx)  
 [Ansible and vSphere - From Zero to Useful](https://github.com/arielsanchezmora/VMUG-Talks/tree/master/2018-06-12%20Minneapolis)  
 [vDocumentation - PowerCLI vSphere Documentation Feature Overview](https://github.com/arielsanchezmora/VMUG-Talks/tree/master/2018-06-21%20Philadelphia)  
