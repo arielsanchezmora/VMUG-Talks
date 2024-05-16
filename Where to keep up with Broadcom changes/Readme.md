@@ -1,6 +1,6 @@
 # Where to keep up with Broadcom changes
 
-![QR Image](https://github.com/arielsanchezmora/VMUG-Talks/blob/master/Where%20to%20keep%20up%20with%20Broadcom%20changes/github_broadcom_tips_link.png)
+<img align="right" width="100" height="100" src="[https://picsum.photos/100/100](https://github.com/arielsanchezmora/VMUG-Talks/blob/master/Where%20to%20keep%20up%20with%20Broadcom%20changes/github_broadcom_tips_link.png)">
 
 Many sites are happy to report on Broadcom/VMware changes, but they don't always tell the whole truth. Rely on official links and your account team for information.
 
