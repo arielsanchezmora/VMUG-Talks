@@ -1,5 +1,7 @@
 # Where to keep up with Broadcom changes
 
+![QR Image](github_broadcom_tips_link.png.png)
+
 Many sites are happy to report on Broadcom/VMware changes, but they don't always tell the whole truth. Rely on official links and your account team for information.
 
 ## Get familiar with the Broadcom Support Portal https://support.broadcom.com/
